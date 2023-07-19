@@ -22,7 +22,7 @@ Open ```AirPodsProMotion.xcodeproj``` on Xcode15 or later, choose My Mac (Mac Ca
  
 | <center> ![](README_resources/info.gif)　</center> |
 
-Displays the information (```CMDeviceMotion```) obtained from AirPodsPro and forwards the Yaw, Pitch and Roll data via OSC to the localhost on Port 9999. Set to autostart/recover the OSC stream whenever any AirPodsPro are connected to the device.
+Displays the information (```CMDeviceMotion```) obtained from AirPodsPro and forwards the Yaw, Pitch and Roll data via OSC to the localhost on Port 9999. Set to autostart/recover the OSC stream whenever any AirPodsPro are connected or reconnected to the device.
 
   
 ## Reference
