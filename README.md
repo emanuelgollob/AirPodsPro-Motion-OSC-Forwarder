@@ -1,6 +1,6 @@
 # AirPodsPro-Motion-Sampler with OSC Forwarder
 
-Code Examples of CMHeadphoneMotionManager in CoreMotion.
+Code Examples of CMHeadphoneMotionManager in CoreMotion with OSC Forwarder
 
 ## Requirements 
  - Xcode: 15.0+
